@@ -1,0 +1,7 @@
+{
+    "crn": "THE_CRN",
+    "apiKeySecretRef": {
+        "name": "cis-api-key",
+        "key": "key"
+    }
+}

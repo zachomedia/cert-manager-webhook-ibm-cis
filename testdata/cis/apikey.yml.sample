@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: cis-api-key
+type: Opaque
+data:
+  key: YOUR_BASE64_ENCODED_API_KEY
